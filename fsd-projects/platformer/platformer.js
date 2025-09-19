@@ -42,9 +42,9 @@ $(function () {
       createPlatform(1050, 200, 100, 20, "black")
       
     // TODO 3 - Create Collectables
-      createCollectable("steve", 410, 375);
+      createCollectable("steve", 410, 360);
       createCollectable("diamond", 490, 550);
-      createCollectable("grace", 1100, 175)
+      createCollectable("grace", 1100, 175 )
 
 
     
